@@ -1,0 +1,53 @@
+.corpo{
+    background-color: #2F2325;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+#cabeçalho{
+    padding-bottom: 0.05%;
+    padding-top: 0.05%; 
+     }
+#titulo-principal{
+    text-align: center;
+    
+}
+#sub-titulo{
+    text-align: center;
+}
+.Foto-perfil{
+    border-radius: 90%;
+   }
+#div-foto-perfil{
+    text-align: center;
+}
+#paragrafo-principal{
+    text-align: center;
+}
+#segundo-titulo-pricipal{
+    text-align: center;
+}
+#redes-socias{
+    text-align: center;
+    list-style: none;
+}
+
+#youtube{
+    color: white;
+    
+}
+#github{
+    color: white;
+}
+#instagram{
+    color: white;
+}
+#linkedin{
+    color: white;
+}
+#twitter{
+    color: white;
+}
+#facebook{
+    color: white;
+}
